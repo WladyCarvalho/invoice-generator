@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PdfTest</string>
+    <string-array name="produtos">
+        <item>Selecionar</item>
+        <item>Frango</item>
+        <item>Vinagre</item>
+        <item>Gasosa</item>
+        <item>Bolacha</item>
+    </string-array>
+</resources>
